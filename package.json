@@ -1,0 +1,14 @@
+{
+  "name": "@harumaxy/github-npm-registory-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "harumaxy <harumaxy@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "https://github.com/harumaxy/github-npm-registory-demo",
+    "type": "git"
+  }
+}
